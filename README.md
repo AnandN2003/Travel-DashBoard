@@ -1,3 +1,3 @@
 # Travel-DashBoard
 Data Analytics using PowerBI
-![My Profile Picture](profile.png)
+![My Profile Picture](ScreenShot.png)
